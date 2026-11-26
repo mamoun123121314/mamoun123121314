@@ -33,7 +33,7 @@ Comfortable across Python, TypeScript/JavaScript, Node, React, and Solidity.
 ![Followers](https://img.shields.io/github/followers/mamoun123121314?style=for-the-badge&label=followers&color=0969da)
 ![Stars received](https://img.shields.io/github/stars/mamoun123121314?style=for-the-badge&label=stars%20earned&color=bf8700)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=mamoun123121314&theme=radical&no-frame=true&row-w=7&column=4)](https://github.com/ryo-manba/github-profile-trophy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mamoun123121314&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazru/github-readme-stats)
 
 ## Currently
 
